@@ -1,7 +1,7 @@
 
-# Hands on Gen AI with AWS and Anthropic by Ngesa Marvin, First Edition
+# Hands on Gen AI with AWS and Anthropic Book by Ngesa Marvin, First Edition
 
-## Companion Jupyter notebooks for the book "# Hands on Gen AI with AWS and Anthropic by Ngesa Marvin, First Edition"
+## Companion Jupyter notebooks for the book
 
 This repository contains Jupyter notebooks implementing the code samples found in the book [# Hands on Gen AI with AWS and Anthropic by Ngesa Marvin, First Edition]().
 
