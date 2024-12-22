@@ -14,7 +14,7 @@ For readability, these notebooks only contain runnable code blocks and section t
     - [Part 1: A Gentle intoroduction to Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Advanced Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
 
-* Chapter 1: RAG Architectures
+* Chapter 2: RAG Architectures
     - [Part 1: Naive RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Agentic RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Multi-Modal RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
