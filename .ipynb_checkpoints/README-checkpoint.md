@@ -13,7 +13,6 @@ For readability, these notebooks only contain runnable code blocks and section t
 * Chapter 1: Prompt Engineering Techniques with Claude
     - [Part 1: A Gentle intoroduction to Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Advanced Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
-    - [Part 3: Agentic Design Patterns - Planning Workflows with ReWOO]
 
 * Chapter 1: RAG Architectures
     - [Part 1: Naive RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
@@ -23,11 +22,11 @@ For readability, these notebooks only contain runnable code blocks and section t
     
 * [Chapter 3: Agentic Design Patterns - Reflection Workflows](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
 
-* Chapter 4: Agentic Design Patterns - Planning
+* Chapter 4: Agentic Design Patterns - Planning Workflows
     - [Part 1: Agentic Design Patterns - Planning Workflows with ReACT](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Agentic Design Patterns - Planning Workflows with ReWOO](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     
-* [Chapter 5: gentic Design Patterns - Automatic Reasoning and ToolUse Workflows](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter07_working-with-keras.ipynb)
+* [Chapter 5: gentic Design Patterns - Automatic Reasoning and ToolUse (ART) Workflows](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter07_working-with-keras.ipynb)
 
 * Chapter 6: Multi AI Agent Systems
     - [Part 1: Multi AI Agent Systems with crewAI](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
