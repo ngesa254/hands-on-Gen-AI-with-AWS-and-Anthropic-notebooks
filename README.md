@@ -1,2 +1,2 @@
-# hands-on-Gen-AI-with-AWS-and-Anthropic-notebooks
-Hands on Gen AI with AWS and Anthropic
+# Hands on Gen AI with AWS and Anthropic by Ngesa Marvin, First Edition
+
