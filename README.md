@@ -34,10 +34,16 @@ For readability, these notebooks only contain runnable code blocks and section t
     - [Part 3: Multi AI Agent Systems with Swarm](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
      - [Part 3: Multi AI Agent Systems with AutoGen](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
 
-* Chapter 7: Jailbreaks and Guardrails
+* Chapter 7: Security, Privacy and Risks
     - [Part 1: Prompt Injections](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Jailbreaks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
-     
+   
+
+* Chapter 7: Jailbreaks and Guardrails
+    - [Part 1: Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
+    - [Part 2: Bedrock Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
+     - [Part 3: NeMo Guardrails Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
+        
 * [Chapter 13: Best practices for the real world](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter13_best-practices-for-the-real-world.ipynb)
 * [Chapter 14: Conclusions](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter14_conclusions.ipynb)
