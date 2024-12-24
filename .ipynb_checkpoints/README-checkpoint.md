@@ -16,10 +16,13 @@ For readability, these notebooks only contain runnable code blocks and section t
 
 * Chapter 2: RAG Architectures
     - [Part 1: Naive RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
-    - [Part 2: Agentic RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
+    - [Part 2: Retrieve And Rerank](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Multi-Modal RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 4: Graph RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
-    
+    - [Part 5: Hybrid RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
+    - [Part 6: Agentic RAG - Router](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
+    - [Part 7: Agentic RAG - Multi Agent RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
+
 * [Chapter 3: Agentic Design Patterns - Reflection Workflows](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
 
 * Chapter 4: Agentic Design Patterns - Planning Workflows
@@ -37,10 +40,8 @@ For readability, these notebooks only contain runnable code blocks and section t
 * Chapter 7: Security, Privacy and Risks
     - [Part 1: Prompt Injections](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Jailbreaks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
-    - [Part 3: Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
-   
 
-* Chapter 7: Jailbreaks and Guardrails
+* Chapter 8: Jailbreaks and Guardrails
     - [Part 1: Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
     - [Part 2: Bedrock Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
      - [Part 3: NeMo Guardrails Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
