@@ -11,11 +11,14 @@ For readability, these notebooks only contain runnable code blocks and section t
 ## Table of contents
 
 * Chapter 1: Prompt Engineering Techniques with Claude
+
+A systematic overview of prompting techniques, organizing methods and strategies to help you effectively communicate with LLMs.
     - [Part 1: A Gentle intoroduction to Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Advanced Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Papers](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
+    
 
-* Chapter 2: RAG Architectures
+* Chapter 2: RAG Architectures / Embeddings and Vector Stores
     - [Part 1: Naive RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Retrieve And Rerank](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Multi-Modal RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
@@ -28,7 +31,7 @@ For readability, these notebooks only contain runnable code blocks and section t
 * [Chapter 3: Agentic Design Patterns - Reflection Workflows](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
     - [Part 1: Papers](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
 
-* Chapter 4: Agentic Design Patterns - Planning Workflows
+* Chapter 4: Agentic Design Patterns - Planning Workflows. Building Effective Agents 
     - [Part 1: Agentic Design Patterns - Planning Workflows with ReACT](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Agentic Design Patterns - Planning Workflows with ReWOO](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Papers](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
@@ -53,6 +56,15 @@ For readability, these notebooks only contain runnable code blocks and section t
     - [Part 2: Bedrock Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
      - [Part 3: NeMo Guardrails Guardrails](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
      - [Part 4: Papers](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
+
+* Chapter 9: Iteration, Evaluation, and Observability 
+    - [Part 1: Evaluation and Feedback Loops](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
+     - [Part 2: Observability and Debugging](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb) 
+        
+ * Chapter 10: Scaling Gen AI Platform from infrastructure to deployment
+    - [Part 1: Adapting LLMs for Domain-Specific and Real-World Tasks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)
+     - [Part 2: Scaling and Productionizing LLM-Powered Platforms](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part03_interpreting-what-convnets-learn.ipynb)     
+         
         
 * [Chapter 13: Best practices for the real world](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter13_best-practices-for-the-real-world.ipynb)
 * [Chapter 14: Conclusions](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter14_conclusions.ipynb)
