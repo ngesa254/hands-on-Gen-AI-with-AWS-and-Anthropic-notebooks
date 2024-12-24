@@ -11,12 +11,11 @@ For readability, these notebooks only contain runnable code blocks and section t
 ## Table of contents
 
 * Chapter 1: Prompt Engineering Techniques with Claude
-
-A systematic overview of prompting techniques, organizing methods and strategies to help you effectively communicate with LLMs.
     - [Part 1: A Gentle intoroduction to Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
     - [Part 2: Advanced Prompt Engineering Techniques with Claude](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     - [Part 3: Papers](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part02_modern-convnet-architecture-patterns.ipynb)
     
+A systematic overview of prompting techniques, organizing methods and strategies to help you effectively communicate with LLMs.
 
 * Chapter 2: RAG Architectures / Embeddings and Vector Stores
     - [Part 1: Naive RAG](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter09_part01_image-segmentation.ipynb)
