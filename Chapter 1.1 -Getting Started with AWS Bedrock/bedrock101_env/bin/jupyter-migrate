@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/ec2-user/SageMaker/hands-on-Gen-AI-with-AWS-and-Anthropic-notebooks/Chapter 1.1 -Getting Started with AWS Bedrock/bedrock101_env/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from jupyter_core.migrate import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
