@@ -1,9 +1,6 @@
 import os
 import boto3
 from typing import Optional
-from dotenv import load_dotenv, find_dotenv
-
-
 
 def get_bedrock_client(region: str = "eu-west-1") -> boto3.client:
     """Get Bedrock runtime client"""
